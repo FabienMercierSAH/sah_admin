@@ -1,0 +1,8 @@
+{
+  "name": "SaH_SAdmin",
+  "app_id": "6295f329",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
